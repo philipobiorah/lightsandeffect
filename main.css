@@ -1,0 +1,46 @@
+#Gallery{
+    padding-top: 70px;
+    
+}
+
+.jumbotron{
+    color:  #2c3e50;
+    background-color: darkgreen;
+}
+
+ #content{
+     text-align: center;
+     padding-top: 35%;    
+}
+ hr{
+     color: #ffc107;
+     width: 400px;
+     border-top: 1px solid #ffc107;
+     border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+ }
+h1{
+    color: #ffc107;
+    font-weight: 700;
+    font-size: 5em;
+}
+html{
+
+    width: 100%
+}
+h3{
+    color: aliceblue;
+    font-weight: 400;
+}
+
+body.landing-page{
+    background-size: cover;
+    background-position: center;
+    /* background: center no-repeat url(http://res.cloudinary.com/atimorcloud/image/upload/v1535050528/lightsAndSound/IMG-20180810-WA0010.jpg); */
+    background:  url(http://res.cloudinary.com/atimorcloud/image/upload/v1535050527/lightsAndSound/IMG-20180810-WA0005.jpg)
+/* background: url(http://res.cloudinary.com/atimorcloud/image/upload/v1535050527/lightsAndSound/IMG-20180810-WA0018.jpg); */
+/* background: url(http://res.cloudinary.com/atimorcloud/image/upload/v1535238740/lightsAndSound/african_lightsandsound.jpg) */
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
